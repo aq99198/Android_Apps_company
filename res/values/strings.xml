@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">广州华辕</string>
+    <string name="title_section1">星期一</string>
+    <string name="title_section2">星期二</string>
+    <string name="title_section3">星期三</string>
+    <string name="title_section4">星期四</string>
+    <string name="title_section5">星期五</string>
+    <string name="title_section6">星期六</string>
+    <string name="title_section7">星期日</string>
+    <string name="homepage">首页</string>
+    <string name="homepage_thing1">广州华辕信息科技\n有限公司</string>
+    <string name="homepage_thing2">欢迎你~</string>
+    <string name="introduce">公司简介</string>
+    <string name="introduce_thing">广州华辕信息科技有限公司 ，是一家专注于智能硬件研究、
+                        开发、生产及销售的高科技企业，我们本着“客户第一，
+                        质量为先，科技为基，团队合作，激情，敬业，与时俱进”
+                        的理念，改善人与物之间的关系，提高社会生活质量。</string>
+    <string name="culture">企业文化</string>
+    <string name="concept">产品介绍</string>
+    <string name="transaction">日常事务</string>
+    <string name="worklist">上班时间表</string>
+    <string name="lifelist">生活值日表</string>
+    
+    
+    <color name="grey">#808080</color><!--灰色 -->
+    <color name="black">#000000</color><!--黑色 -->  
+    
+    <string name="oy">欧阳志浩</string>
+    <string name="czh">陈志惠</string>
+    <string name="cc">陈超</string>
+    <string name="ljy">梁家瑜</string>
+    
+    <string name="buy">买菜</string>
+    <string name="food">煮饭</string>
+    <string name="wash">洗碗</string>
+    <string name="clean">清洁</string>
+    
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">联系我们</string>
+    <string name="action_settings">li</string>
+    
+    <string name="updata">更新</string>
+    
+    <string name="ouritem1">高精度投料机</string>
+    <string name="ouritem2">数字水位计</string>
+    <string name="ouritem3">仓库温控仪</string>
+    
+</resources>

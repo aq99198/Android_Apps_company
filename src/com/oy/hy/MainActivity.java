@@ -99,6 +99,9 @@ public class MainActivity extends ActionBarActivity
 				 map = new HashMap<String, Object>();
 				 map.put("title", getString(R.string.ouritem3));
 				 list.add(map);	
+				 map = new HashMap<String, Object>();
+				 map.put("title", getString(R.string.ouritem4));
+				 list.add(map);
 				break;
 			case 4:
 				 map.put("title", getString(R.string.worklist));
